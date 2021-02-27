@@ -1,0 +1,13 @@
+.i-button-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.i-button {
+    margin: 6px;
+}
+
+.i-right {
+    display: flex;
+    margin-left: auto;
+}
